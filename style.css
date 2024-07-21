@@ -324,7 +324,7 @@ footer img {
 
 /*Midia queries*/
 
-@media (max-width: 850px){
+@media (max-width: 1200px){
 
     header {
         background-color: #FEFAEE;
